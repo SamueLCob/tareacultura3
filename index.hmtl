@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Biografía</title>
+  <style>
+    body {
+      background-color: #f2f2f2; /* Color de fondo tenue */
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    #container {
+      width: 80%;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: white;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    img {
+      display: block;
+      margin: 0 auto;
+      max-width: 100%;
+      height: auto;
+    }
+    video {
+      display: block;
+      margin: 20px auto;
+      max-width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+<div id="container">
+  <h1>Mi Biografía</h1>
+  
+  <h2>Datos Personales</h2>
+  <p>Me llamo Samuel Cobales tengo 16 años, mi cumpleaños es el 19 de febrero del 2008, vivo en Mérida, Yucatán. Estoy estudiando la preparatoria. Mi madre se llama María y mi papá César.</p>
+  
+  <h2>Pasatiempos y Lugares Favoritos</h2>
+  <p>Me gusta dibujar, jugar videojuegos y ver películas. Los lugares que me gustan son la playa y los bosques.</p>
+  
+ <br><br>
+    <img src="https://a.cdn-hotels.com/gdcs/production97/d402/6baff29c-e43b-4caf-a9e8-5dcf1279dea0.jpg?impolicy=fcrop&amp;w=800&amp;h=533&amp;q=medium" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 800px; height: 311px; margin: 0px; width: 467px;" ></a><br><br>
+<img src="https://assets.unenvironment.org/decadeonrestoration/2020-03/nature-3294681_1280%20%281%29.jpg" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 1280px; height: 263px; margin: 0px; width: 467px;"></a><br><br>
+  
+ <head>
+ </body>
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/mwKJfNYwvm8?si=mesEO_0EwaGiNxVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 
+ </body>
+ </html>
+ 
+  
+ <p> Disfruta de un video de mi artista favorito <p><a href="https://www.youtube.com/watch?v=mwKJfNYwvm8">aquí</a></p>
+</div>
+
+</body>
+</html>
